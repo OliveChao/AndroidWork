@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_subtract">Subtract</string>
+    <string name="btn_divide">Divide</string>
+    <string name="btn_multiply">Multiply</string>
+    <string name="tv_email">Email Address:</string>
+    <string name="tv_password">Password:</string>
+    <string name="tv_numberOne">Number One:</string>
+    <string name="tv_numberTwo">Number Two:</string>
+    <string name="tv_result">Result</string>
+    <string name="tv_firstName">First Name:</string>
+    <string name="tv_idNo">ID No:</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_operations">Operations</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewThing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Number One</string>
+    <string name="app_name">Number Two</string>
+    <string name="app_name">Result</string>
+    <string name="app_name">Increament</string>
+    <string name="app_name">Decreament</string>
+    <string name="app_name">Notice</string>
+    <string name="app_name">Country</string>
+    <string name="app_name">Display</string>
+
+</resources>

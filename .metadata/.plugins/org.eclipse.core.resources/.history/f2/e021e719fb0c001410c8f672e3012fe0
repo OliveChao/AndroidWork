@@ -1,0 +1,26 @@
+package com.example.newthing;
+
+import android.support.v7.app.ActionBarActivity;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+import android.os.Bundle;
+
+public class CounterPage extends ActionBarActivity {
+	//Declaring variables
+	EditText etEnterNo;
+	Button btnIncreament , btnDecreament;
+	String strEnterNo;
+	TextView tvResult;
+	double EnterNo;
+	double Result;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.counter);
+
+		
+	}
+
+}
